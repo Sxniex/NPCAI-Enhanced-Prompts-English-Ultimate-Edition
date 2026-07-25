@@ -1,0 +1,18 @@
+## Installation
+
+1. Locate your NPCAI installation folder:
+   `Grand Theft Auto V/plugins/LSPDFR/NPCI/`
+
+2. Back up your existing `NPCI_GeminiPrompt.txt`, `NPCI_EmergencyPrompt.txt`,
+   `NPCI_VoiceStyles.ini`, and `NPCI_TranscriptionPhrases.txt`.
+
+3. Drop in the four files from this pack, overwriting the originals.
+
+4. Launch the game. No plugin, config, or NPCAI version changes are required —
+   this is a prompt-only pack.
+
+##note 
+In case after  you launch  and crashed return to
+Grand Theft Auto V/plugins/LSPDFR/NPCI/
+if you see two files named “voice_style.ini” and “voices_profile.ini,” 
+simply leave them as they are. They will work perfectly. together 
