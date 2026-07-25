@@ -90,7 +90,7 @@ a caricature accent.
 
 ## Credits
 
-- **DoubleHook** — creator of NPCAI and the original prompt pack this is built on.
-- **Sxniex** — English Ultimate Edition rewrite.
+- **DoubleHook** — creator of NPCAI Plugin thank you so much for this plugin 
+- **Sxniex** — English Ultimate Enhanced Edition .
 
 If you use or redistribute this pack, please keep this credit intact.
