@@ -63,17 +63,6 @@ regional backgrounds (SoCal, Deep South, Midwest, Boston, Texas, immigrant
 communities, etc.) that flavors speech with two or three natural details instead of
 a caricature accent.
 
----
-
-## Installation
-
-1. Locate your NPCAI installation folder:
-   `Grand Theft Auto V/plugins/LSPDFR/NPCI/`
-2. Back up your existing `NPCI_GeminiPrompt.txt`, `NPCI_EmergencyPrompt.txt`,
-   `NPCI_VoiceStyles.ini`, and `NPCI_TranscriptionPhrases.txt`.
-3. Drop in the four files from this pack, overwriting the originals.
-4. Launch the game. No plugin, config, or NPCAI version changes are required —
-   this is a prompt-only pack.
 
 ---
 
