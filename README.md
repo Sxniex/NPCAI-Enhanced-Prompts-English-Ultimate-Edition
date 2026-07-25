@@ -1,4 +1,4 @@
-# NPCAI Enhanced Prompts — English Ultimate Edition
+hi# NPCAI Enhanced Prompts — English Ultimate Edition
 
 An enhanced English prompt pack for **NPCAI** (NPCI), the Gemini-powered NPC dialogue
 plugin for LSPDFR by DoubleHook. This is not a translation — it's a rewrite of the stock
@@ -91,6 +91,6 @@ a caricature accent.
 ## Credits
 
 - **DoubleHook** — creator of NPCAI Plugin thank you so much for this plugin 
-- **Sxniex** — English Ultimate Enhanced Edition .
+- **Sxniex** — English Ultimate Enhanced Edition prompt .
 
 If you use or redistribute this pack, please keep this credit intact.
