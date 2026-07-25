@@ -5,7 +5,7 @@ plugin for LSPDFR by DoubleHook. This is not a translation — it's a rewrite of
 prompts aimed at more natural conversation, more consistent personalities, and more
 realistic police, fire, and EMS roleplay.
 
-Built by **Sxniex**, based on the original NPCAI prompt structure by **DoubleHook**.
+Built by **Sxniex**, 
 
 ---
 
