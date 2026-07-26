@@ -12,7 +12,7 @@
    this is a prompt-only pack.
 
 ## note 
-In case after you launch the game and crashed return to
+In case after you launch the game and you return to
 Grand Theft Auto V/plugins/LSPDFR/NPCI/
 if you see two files named “voice_style.ini” and “voices_profile.ini,” 
 simply leave them as they are. They will work perfectly. together 
